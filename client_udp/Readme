@@ -1,0 +1,11 @@
+# login
+## send
+password:
+ID:
+## receive
+result:valid(1)/invalid(0)
+# MainWindow
+## send
+getUserList
+## receive
+user:id
